@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#greend {
+    float: left;
+    padding-bottom: 100%;
+    color:  rgb(84, 187, 106);
+    
+    
+}
+#greendc {
+    padding: 50px;
+    float: left;
+padding-right: 80px;
+}
+#asideid {
+    width: 30%;
+	
+	font-size: .9em;
+	padding-top: 2.9em;
+    word-wrap: break-word;
+}
+#imageid {
+    width: 200px;
+	height: 200px;
+	border-radius: 100%;
+    margin: auto;
+    transform: rotate(90deg);
+    }
+    #introid {
+        font-size: .9em;
+        margin: 0;
+        font-weight: lighter;
+        float: ;
+        width: 30%;
+        padding: 100px;
+    }
+    .namec{
+        font-size: 2.5em;
+        margin: 0;
+    }
+    #green {
+        color: rgb(84, 187, 106);
+    }
+    #blue {
+        color: rgb(34, 141, 228);
+    }
